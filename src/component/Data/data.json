@@ -10,7 +10,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Opening Batter",
-        "salary": 75000
+        "salary": "75000"
     },
     {
         "id": 2,
@@ -23,7 +23,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
-        "salary": 75000
+        "salary": "75000"
     },
     {
         "id": 3,
@@ -36,7 +36,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowler",
-        "salary": 75000
+        "salary": "75000"
     },
     {
         "id": 4,
@@ -49,7 +49,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
-        "salary": 75000
+        "salary": "75000"
     },
     {
         "id": 5,
@@ -62,7 +62,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": "Wicketkeeper",
         "playingRole": "Wicketkeeper Batter",
-        "salary": 75000
+        "salary": "75000"
     },
     {
         "id": 6,
@@ -75,7 +75,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 7,
@@ -88,7 +88,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowling Allrounder",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 8,
@@ -101,7 +101,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Middle order Batter",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 9,
@@ -114,7 +114,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowler",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 10,
@@ -127,7 +127,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": "Wicketkeeper",
         "playingRole": "Wicketkeeper Batter",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 11,
@@ -140,7 +140,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Top order Batter",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 12,
@@ -166,7 +166,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowler",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 14,
@@ -179,7 +179,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": "Wicketkeeper",
         "playingRole": "Wicketkeeper Batter",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 15,
@@ -192,7 +192,7 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
-        "salary": 50000
+        "salary": "50000"
     },
     {
         "id": 16,
@@ -205,6 +205,6 @@
         "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Middle order Batter",
-        "salary": 50000
+        "salary": "50000"
     }
 ]

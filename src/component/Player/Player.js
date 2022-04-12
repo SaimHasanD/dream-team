@@ -3,11 +3,11 @@ import React from 'react';
 import './player.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faPlus } from '@fortawesome/free-solid-svg-icons'
-// import { faFacebook } from '@fortawesome/free-brands-svg-icons'
 
 const Player = (props) => {
 
     const { name, image, age, batting, bowling, wicketkeeper, playingRole, salary, facebook, instagram } = props.player;
+    const handleAddPlayer = props.handleAddPlayer;
 
     return (
         <div id="playerCard">
@@ -27,10 +27,11 @@ const Player = (props) => {
             </div>
 {/* ------------------------------------------Add button Div----------------------------------------------- */}
             <div className="btnDiv">
-                <button id='btn'>ADD <FontAwesomeIcon icon={faPlus} /></button>
+                <button id='btn' onClick={() => handleAddPlayer(props.player)}>ADD <FontAwesomeIcon icon={faPlus} /></button>
             </div>
 {/* ---------------------------------------Social Media link Div------------------------------------------- */}
             <div className="aDiv">
+            {/* -----------------------Using Formal facebook and instagram------------------------ */}
             <a className="link" href={facebook} target='_blank'>Facebook</a>
             <a className="link" href={instagram} target='_blank'>Instagram</a>
             </div>

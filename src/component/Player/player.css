@@ -28,8 +28,11 @@
 #btn{
     padding: 3px 10px;
     border-radius: 5px;
-    cursor: pointer;
-    
+    cursor: pointer; 
+}
+
+#btn:hover {
+    border-color: aliceblue ;
 }
 
 .link{
