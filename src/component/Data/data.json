@@ -7,7 +7,7 @@
         "batting": "Left hand Bat",
         "bowling": null,
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Opening Batter",
         "salary": 75000
@@ -15,12 +15,12 @@
     {
         "id": 2,
         "name": "Shakib Al Hasan",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893396-e1520011475170.jpg",
         "age": "35y 19d",
         "batting": "Left hand Bat",
         "bowling": "Slow Left arm Orthodox",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
         "salary": 75000
@@ -28,12 +28,12 @@
     {
         "id": 3,
         "name": "Mashrafe Bin Mortaza",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg",
         "age": "38y 189d",
         "batting": "Right hand Bat",
         "bowling": "Right arm Fast medium",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowler",
         "salary": 75000
@@ -41,12 +41,12 @@
     {
         "id": 4,
         "name": "Mahmudullah Riyad",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
         "age": "36y 67d",
         "batting": "Right hand Bat",
         "bowling": "Right arm Offbreak",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
         "salary": 75000
@@ -54,12 +54,12 @@
     {
         "id": 5,
         "name": "Mushfiqur Rahim",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
         "age": "34y 338d",
         "batting": "Right hand Bat",
         "bowling": null,
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": "Wicketkeeper",
         "playingRole": "Wicketkeeper Batter",
         "salary": 75000
@@ -67,12 +67,12 @@
     {
         "id": 6,
         "name": "Mehidy Hasan Miraz ",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg",
         "age": "24y 169d",
         "batting": "Right hand Bat",
         "bowling": "Right arm Offbreak",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
         "salary": 50000
@@ -80,12 +80,12 @@
     {
         "id": 7,
         "name": "Mohammad Saifuddin",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg",
         "age": "25y 162d",
         "batting": "Left hand Bat",
         "bowling": "Right arm Medium fast",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowling Allrounder",
         "salary": 50000
@@ -93,12 +93,12 @@
     {
         "id": 8,
         "name": "Mominul Haque",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148275/mominul-haque.jpg",
         "age": "30y 195d",
         "batting": "Left  hand Bat",
         "bowling": "Slow Left arm Orthodox",
         "facebook": "https://www.facebook.com",
-        "instagram ":"https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Middle order Batter",
         "salary": 50000
@@ -106,12 +106,12 @@
     {
         "id": 9,
         "name": "Mustafizur Rahman",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
         "age": "26y 218d",
         "batting": "Left  hand Bat",
         "bowling": "Left arm Fast medium",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowler",
         "salary": 50000
@@ -119,25 +119,25 @@
     {
         "id": 10,
         "name": "Litton Kumer Das",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
         "age": "27y 181d",
         "batting": "Right hand Bat",
         "bowling": null,
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": "Wicketkeeper",
         "playingRole": "Wicketkeeper Batter",
         "salary": 50000
     },
     {
         "id": 11,
-        "name": "Mahmudul Hasan Joy",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "name": "Sabbir Rahman",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg",
         "age": "21y 150d",
         "batting": "Right hand Bat",
-        "bowling": null,
+        "bowling": "Right-arm legbreak",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Top order Batter",
         "salary": 50000
@@ -145,12 +145,12 @@
     {
         "id": 12,
         "name": "Mohammad Rafique",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303100/303145.jpg",
         "age": "51y 219d",
         "batting": "Left  hand Bat",
         "bowling": "Slow Left arm Orthodox",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
         "salary": "75000"
@@ -158,12 +158,12 @@
     {
         "id": 13,
         "name": "Taskin Ahmed",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156212/taskin-ahmed.jpg",
         "age": 13,
         "batting": "Left hand Bat",
         "bowling": "Right arm Fast",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Bowler",
         "salary": 50000
@@ -171,12 +171,12 @@
     {
         "id": 14,
         "name": "Anamul Haque Bijoy",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155747/anamul-haque.jpg",
         "age": 14,
         "batting": "Right hand Bat",
         "bowling": null,
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": "Wicketkeeper",
         "playingRole": "Wicketkeeper Batter",
         "salary": 50000
@@ -184,12 +184,12 @@
     {
         "id": 15,
         "name": "Afif Hossain Dhrubo",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/306000/306068.1.jpg",
         "age": "22y 202d",
         "batting": "Left hand Bat",
         "bowling": "Right arm Offbreak",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Allrounder",
         "salary": 50000
@@ -197,15 +197,14 @@
     {
         "id": 16,
         "name": "Yasir Ali Chowdhury",
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/179500/179555.1.jpg",
         "age": "26y 37d",
         "batting": "Right hand Bat",
-        "bowling":"Right arm Offbreak",
+        "bowling": "Right arm Offbreak",
         "facebook": "https://www.facebook.com",
-        "instagram ": "https://www.instagram.com",
+        "instagram": "https://www.instagram.com",
         "wicketkeeper": null,
         "playingRole": "Middle order Batter",
         "salary": 50000
     }
-]    
-    
+]
