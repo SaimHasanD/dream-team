@@ -1,5 +1,9 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from 'react';
 import './player.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faPlus } from '@fortawesome/free-solid-svg-icons'
+// import { faFacebook } from '@fortawesome/free-brands-svg-icons'
 
 const Player = (props) => {
 
@@ -23,15 +27,17 @@ const Player = (props) => {
             </div>
 {/* ------------------------------------------Add button Div----------------------------------------------- */}
             <div className="btnDiv">
-                <button id='btn'>ADD</button>
+                <button id='btn'>ADD <FontAwesomeIcon icon={faPlus} /></button>
             </div>
 {/* ---------------------------------------Social Media link Div------------------------------------------- */}
             <div className="aDiv">
-            <a className="link" href={facebook}>Facebook</a>
-            <a className="link" href={instagram}>Instagram</a>
+            <a className="link" href={facebook} target='_blank'>Facebook</a>
+            <a className="link" href={instagram} target='_blank'>Instagram</a>
             </div>
         </div>
     );
 };
+
+
 
 export default Player;
