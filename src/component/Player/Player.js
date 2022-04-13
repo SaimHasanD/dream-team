@@ -18,12 +18,12 @@ const Player = (props) => {
 {/* ---------------------------------------Player Information Div------------------------------------------ */}
             <div className="playerInfo">
             <h3 id="name">{name} </h3>
-            <p> Age: {age}</p>
-            <p>Batting Style: {batting}</p>
-            <p>Bowling Style: {bowling}</p>
-            <p>Fielding Position: {wicketkeeper}</p>
-            <p>Playing Role: {playingRole}</p>
-            <p>Monthly Salary: {salary}</p>
+            <p> Age: <b>{age}</b></p>
+            <p>Batting Style: <b>{batting}</b></p>
+            <p>Bowling Style: <b>{bowling}</b></p>
+            <p>Fielding Position: <b>{wicketkeeper}</b></p>
+            <p>Playing Role: <b>{playingRole}</b></p>
+            <p>Monthly Salary:  <b>{salary}</b> BDT</p>
             </div>
 {/* ------------------------------------------Add button Div----------------------------------------------- */}
             <div className="btnDiv">

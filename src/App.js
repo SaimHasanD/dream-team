@@ -17,11 +17,16 @@ function App() {
     const totalPlayer = [...team, player]
     setTeam(totalPlayer);
   } 
-  console.log(team);
 
   return (
     <div className="App">
-{/* ---------------------------------------PLAYER INFO/PLAYER CARD------------------------------------------- */}      
+
+    <header>
+    <h1>Make Your Dream Team</h1>
+    </header>
+
+      <div id="player">
+        {/* ---------------------------------------PLAYER INFO/PLAYER CARD------------------------------------------- */}      
       <div id="playerInfo">
       {
         player.map(player => <Player player={player} handleAddPlayer={handleAddPlayer} key={player.id}></Player>)
@@ -30,6 +35,7 @@ function App() {
 {/* ---------------------------------------CREATE TEAM------------------------------------------- */}      
       <div className="createTeam">
          <Team team={team}></Team>
+      </div>
       </div>
     </div>
   );
