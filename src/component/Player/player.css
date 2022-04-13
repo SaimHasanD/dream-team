@@ -1,5 +1,4 @@
 #playerCard {
-
     background: rgb(148, 204, 158);
     padding: 20px;
     height: fit-content;
@@ -16,27 +15,27 @@
 }
 
 #name {
-    text-align:center;
-    margin-bottom:10px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 .btnDiv {
-   text-align:center;
-   margin-top: 5px ;
+    text-align: center;
+    margin-top: 5px;
 }
 
-#btn{
+#btn {
     padding: 3px 10px;
     border-radius: 5px;
-    cursor: pointer; 
+    cursor: pointer;
     margin: 0 10px;
 }
 
 #btn:hover {
-    border-color: aliceblue ;
+    border-color: aliceblue;
 }
 
-.link{
+.link {
     text-decoration: none;
     color: black;
 }

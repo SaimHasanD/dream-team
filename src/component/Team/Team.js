@@ -12,8 +12,9 @@ const Team = (props) => {
             <div className="text-center">
                 <h1>Your Team</h1>
             </div>
-            <h4>Total player {team.length}</h4>
+            <h4>Total Player {team.length}</h4>
             <h4>Total Salary {totalSalary} BDT</h4>
+            {/* ------------------------------------------Player Name List----------------------------------------------- */}
             <div>
                 <h4>Player List</h4>
                 {

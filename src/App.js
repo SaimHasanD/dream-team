@@ -21,12 +21,12 @@ function App() {
 
   return (
     <div className="App">
-
+      {/* ---------------------------------------Header------------------------------------------ */}
       <header>
         <h1>Make Your Dream Team</h1>
       </header>
 
-      <div id="player">
+      <div id="body">
         {/* ---------------------------------------PLAYER INFO/PLAYER CARD------------------------------------------- */}
         <div id="playerInfo">
           {
@@ -34,7 +34,7 @@ function App() {
           }
         </div>
         {/* ---------------------------------------CREATE TEAM------------------------------------------- */}
-        <div className="createTeam">
+        <div>
           <Team team={team} key={team.index}></Team>
         </div>
       </div>
