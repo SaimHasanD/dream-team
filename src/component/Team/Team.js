@@ -1,5 +1,4 @@
 import React from 'react';
-import "./team.css"
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
 
 const Team = (props) => {
@@ -21,7 +20,7 @@ const Team = (props) => {
                     team.map((player) => <p className="mx-3 my-2" key={player.id}>{player.name}</p>)
                 }
             </div>
-            
+
         </div>
     );
 };
