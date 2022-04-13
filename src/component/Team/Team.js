@@ -1,14 +1,11 @@
 import React from 'react';
 import "./team.css"
 
-const cart = (props) => {
+const Team = (props) => {
 
     const team = props.team;
 
     const totalSalary = team.reduce((totalSalary, player) => totalSalary + Number(player.salary), 0);
-
-    console.log(team);
-    console.log(totalSalary);
 
     return (
         <div id="team">
@@ -20,12 +17,12 @@ const cart = (props) => {
             <div>
                 <h4>Player List</h4>
                 {
-                    team.map((player) => <p id='players'>{player.name}</p>)
+                    team.map((player) => <p id='players' key={player.id}>{player.name}</p>)
                 }
             </div>
         </div>
     );
 };
 
-export default cart;
+export default Team;
 

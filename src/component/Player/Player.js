@@ -6,7 +6,7 @@ import {faPlus } from '@fortawesome/free-solid-svg-icons'
 
 const Player = (props) => {
 
-    const { name, image, age, batting, bowling, wicketkeeper, playingRole, salary, facebook, instagram } = props.player;
+    const { name, image, age, batting, bowling, wicketkeeper, playingRole, salary, details} = props.player;
     const handleAddPlayer = props.handleAddPlayer;
 
     return (
@@ -28,12 +28,7 @@ const Player = (props) => {
 {/* ------------------------------------------Add button Div----------------------------------------------- */}
             <div className="btnDiv">
                 <button id='btn' onClick={() => handleAddPlayer(props.player)}>ADD <FontAwesomeIcon icon={faPlus} /></button>
-            </div>
-{/* ---------------------------------------Social Media link Div------------------------------------------- */}
-            <div className="aDiv">
-            {/* -----------------------Using Formal facebook and instagram------------------------ */}
-            <a className="link" href={facebook} target='_blank'>Facebook</a>
-            <a className="link" href={instagram} target='_blank'>Instagram</a>
+                <button id='btn'><a className="link" href={details} target='_blank'>More details ...</a></button>
             </div>
         </div>
     );
